@@ -1,4 +1,4 @@
-# quick_pharma_android
+# quick_pharma_flutter
 
 A new Flutter project.
 
