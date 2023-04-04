@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.quickPharma.quick_pharma_android.app-mergeReleaseResources-31:/values-fil/values-fil.xml",
+            "map": [
+                {
+                    "source": "/Users/imac/.gradle/caches/transforms-3/18f0a3e59457a3690181a370f1d7cd51/transformed/jetified-play-services-wallet-18.1.2/res/values-fil/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "203",
+                        "endColumns": "107",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "111",
+                        "endOffsets": "162"
+                    }
+                }
+            ]
+        }
+    ]
+}

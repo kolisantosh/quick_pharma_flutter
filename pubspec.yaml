@@ -1,0 +1,85 @@
+name: quick_pharma
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get:
+  firebase_core_platform_interface: ^4.5.1
+  firebase_messaging: ^14.2.1
+  flutter_local_notifications: ^13.0.0
+  shared_preferences: ^2.0.11
+  smooth_page_indicator: ^1.0.0+2
+  intl_phone_field: ^3.1.0
+  google_nav_bar:
+  line_icons:
+  intl:
+  google_maps_flutter:
+  flutter_credit_card:
+  flutter_rating_bar:
+  qr_code_scanner:
+  geolocator:
+  flutter_launcher_icons: ^0.11.0
+  image_picker: ^0.8.5+3
+  pay: ^1.0.11
+  flutter_phone_direct_caller: ^2.1.1
+  file_selector:
+  file_picker:
+  path:
+  mime:
+  cached_network_image:
+  connectivity_plus:
+  hand_signature: ^2.3.0+1
+  url_launcher: ^6.1.7
+  location:
+  image_gallery_saver: ^1.7.1
+  path_provider: ^2.0.11
+  screenshot: ^1.3.0
+  permission_handler:
+  webview_flutter: ^4.0.2
+  syncfusion_flutter_datepicker: ^20.4.44
+  maps_launcher: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/image/qp_logo.png"
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/image/
+    - assets/language/
+    - assets/gpay.json
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/font/Poppins-Bold.ttf
+          weight: 400
+        - asset: assets/font/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/font/Poppins-Regular.ttf
+          weight: 700
+        - asset: assets/font/Poppins-SemiBold.ttf
+          weight: 900

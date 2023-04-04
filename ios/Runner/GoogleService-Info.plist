@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379740476376-tda9u5c9ddehu86l8r759l28ae7bnhrs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379740476376-tda9u5c9ddehu86l8r759l28ae7bnhrs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>379740476376-6ufpsrs4t5a1aovvfgcltcah7iefp1b0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP9a4qVzY5zGrW13pj9idz9BI5sF2ahRQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379740476376</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quickpharma</string>
+	<key>PROJECT_ID</key>
+	<string>quick-pharma-402e3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quick-pharma-402e3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379740476376:ios:776cbc2ad7ac72c97498ad</string>
+</dict>
+</plist>

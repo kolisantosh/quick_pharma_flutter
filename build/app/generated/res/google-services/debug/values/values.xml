@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">335284881716-6glko7q4s8aq0o3q8tom71gofj9hnhoq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">335284881716</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsjhdE9Zd6D2FOV1G3X0xNkvOzs84Dhsg</string>
+    <string name="google_app_id" translatable="false">1:335284881716:android:491082b9c1943bfe0efd61</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsjhdE9Zd6D2FOV1G3X0xNkvOzs84Dhsg</string>
+    <string name="google_storage_bucket" translatable="false">quick-pharma-c63fc.appspot.com</string>
+    <string name="project_id" translatable="false">quick-pharma-c63fc</string>
+</resources>
