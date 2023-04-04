@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "335284881716",
+    "project_id": "quick-pharma-c63fc",
+    "storage_bucket": "quick-pharma-c63fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335284881716:android:491082b9c1943bfe0efd61",
+        "android_client_info": {
+          "package_name": "com.quickPharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335284881716-rqphbg579ncmftuanlj2remga6qgc6hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickPharma",
+            "certificate_hash": "bdd90412814241fc526a68beca76675ff68a036a"
+          }
+        },
+        {
+          "client_id": "335284881716-6glko7q4s8aq0o3q8tom71gofj9hnhoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjhdE9Zd6D2FOV1G3X0xNkvOzs84Dhsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335284881716-6glko7q4s8aq0o3q8tom71gofj9hnhoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335284881716-vvl4crlf18tspeml2tvkcktmrpbr42s5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quickpharma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
